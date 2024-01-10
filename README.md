@@ -1,5 +1,7 @@
 # ![아이콘](icon.png) MultiFreeca
 
+[Chrome Web Store (Chromium, Edge, Whale 호환)](https://chromewebstore.google.com/detail/mnnenipmhhamjalekeiiilpeaaddiiio) | [Firefox Add-ons](https://addons.mozilla.org/addon/multifreeca/)
+
 ![스크린샷 1](1.png)
 
 ![스크린샷 2](2.png)
